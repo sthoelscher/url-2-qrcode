@@ -1,4 +1,4 @@
-*URL-2-QRCode
+## URL-2-QRCode
 
 A small service to create a QR Code for an URL
 
